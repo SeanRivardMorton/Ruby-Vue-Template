@@ -1,24 +1,15 @@
-# README
+# Getting started
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is how you get the Ruby-Vue-Template set-up and ready.
 
-Things you may want to cover:
+# Clone this repo
 
-* Ruby version
+> Git clone https://github.com/SeanRivardMorton/Ruby-Vue-Template.git
 
-* System dependencies
+> Bundle install
 
-* Configuration
+> Yarn install
 
-* Database creation
+> Rails -s
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project doesn't have anything else set-up. Very Minimal.
